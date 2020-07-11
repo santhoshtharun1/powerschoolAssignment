@@ -1,0 +1,31 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+body {
+  background:rgb(49, 206, 172) url("powerschool.png") no-repeat bottom center;
+ //background: url("ps1.jpg") no-repeat center bottom left;
+  background-size: auto;
+  margin-left: auto;
+  
+  h1 {
+    text-align: center;
+    background-color:#5d9ab2;
+    padding :20px;
+     }
+
+  font-family: Roboto, courier, sans-serif;
+  margin: 200 px;
+}
+.basic-container {
+  padding: 5px;
+}
+.version-info {
+  font-size: 8pt;
+  float: right;
+  margin: 8 px;
+}
+
+.mat-app-background{
+  background-color: antiquewhite;
+}
+
+
